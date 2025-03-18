@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="[[https://cdn.simpleicons.org/adobephotoshop/31A8FF](https://cdn.simpleicons.org/adobephotoshop/31A8FF)](https://cdn.simpleicons.org/adobephotoshop/31A8FF)" height="30" alt="photoshop logo"  />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
   <img width="12" />
