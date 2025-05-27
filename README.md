@@ -1,7 +1,7 @@
 <h2 align="left">Oi 👋!</h2>
 
 ##
-
+![sharaujo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharaujo&theme=tokyonight&hide_border=true)
 
 
 ###
